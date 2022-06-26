@@ -4,8 +4,8 @@
   "keywords": ["V", "X"],
   "env": {
     "Site": {
-      "description": "自定义伪装页面，例如：https://github.com/happyevero/Html/raw/main/S-html.zip ",
-      "value": "https://github.com/happyevero/Html/raw/main/S-html.zip"
+      "description": "自定义伪装页面，例如：https://github.com/CGFCHTH/dsfsfrea1 ",
+      "value": "https://github.com/CGFCHTH/dsfsfrea1"
     },
 
     "Vless_UUID": {
